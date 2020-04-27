@@ -7,7 +7,7 @@
     "start": "node index.js",
     "server": "nodemon index.js",
     "client": "npm run start --prefix client",
-    "dev": "concurrently \"npm run server\" \"npm run client\" \"npm run webhook\"",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client",
     "webhook": "./sendgrid_webhook.sh"
   },
@@ -24,6 +24,7 @@
     "materialize-css": "^0.100.2",
     "mongoose": "^5.2.2",
     "nodemon": "^1.17.5",
+    "npm-check-updates": "^4.1.2",
     "passport": "^0.4.0",
     "passport-google-oauth20": "^2.0.0",
     "path-parser": "^4.1.1",
