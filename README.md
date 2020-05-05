@@ -1,4 +1,4 @@
-# HapaChat
+# Survey.me
 
 Survey.me is a webapp to let users get the opinions of email recipients.
 
