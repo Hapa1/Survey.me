@@ -2,9 +2,7 @@
 
 Survey.me is a webapp to let users get the opinions of email recipients.
 
-Use this [link](http://mailstk.herokuapp.com/) to access a live demo.
-
-![GitHub Logo](https://i.ibb.co/xjPrVg8/1menu.png)
+![GitHub Logo](https://i.ibb.co/4ZgdhdP/Surveyme.png)
 
 
 ## Installation
